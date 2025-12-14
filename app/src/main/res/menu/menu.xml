@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/wyslijSMS"
+        android:title="@string/wyslij_sms"/>
+    <item
+        android:id="@+id/zapiszKoordynat"
+        android:title="@string/zapisz_koordynat"/>
+    <item
+        android:id="@+id/udostepnijWyniki"
+        android:title="@string/udostepnij_wyniki"/>
+    <item
+        android:id="@+id/weather"
+        android:title="@string/sprawdz_pogode"/>
+</menu>

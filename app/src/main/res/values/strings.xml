@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ZadanieMapaGPS</string>
+
+    <string name="wyslij_sms">Wyślij sms\'a z koordynatami</string>
+    <string name="zapisz_koordynat">Zapisz zdjęcie mapy</string>
+    <string name="udostepnij_wyniki">Udostępnij wyniki</string>
+    <string name="sprawdz_pogode">Sprawdź pogodę</string>
+
+    <string name="toolbar_sms">Wyślij SMS</string>
+    <string name="toolbar_pogoda">Aktualna Pogoda</string>
+
+
+    <string name="numer_telefonu">Numer telefonu</string>
+    <string name="wyslij_lokalizacje">Wyślij lokalizację</string>
+</resources>
