@@ -343,8 +343,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
             textGps.setTextColor(Color.RED);
         }
     }
-
-
+    
     public void saveMapToGallery() {
         osm.setDrawingCacheEnabled(true);
         Bitmap bitmap = Bitmap.createBitmap(osm.getDrawingCache());
